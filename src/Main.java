@@ -13,6 +13,7 @@ public class Main {
       При провале любой из проверок нужно вывести на экран соответствующее сообщение или выкинуть исключение.
      */
 
-    Triangle abc = new Triangle(3,4,5);
+    Triangle abc = new Triangle(3, 4, 5);
+    System.out.println(abc);
   }
 }
